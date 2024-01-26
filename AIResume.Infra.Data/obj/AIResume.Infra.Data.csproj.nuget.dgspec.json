@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Infra.Data\\AIResume.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\AIResume.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\AIResume.Domain.csproj",
+        "projectName": "AIResume.Domain",
+        "projectPath": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\AIResume.Domain.csproj",
+        "packagesPath": "C:\\Users\\dti Digital\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dti Digital\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-NuGet/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-PrecisionCare/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/UmNoveTres/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Infra.Data\\AIResume.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Infra.Data\\AIResume.Infra.Data.csproj",
+        "projectName": "AIResume.Infra.Data",
+        "projectPath": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Infra.Data\\AIResume.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\dti Digital\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dti Digital\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-NuGet/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/HP-PrecisionCare/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/hermespardinibrasil/_packaging/UmNoveTres/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\AIResume.Domain.csproj": {
+                "projectPath": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\AIResume.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

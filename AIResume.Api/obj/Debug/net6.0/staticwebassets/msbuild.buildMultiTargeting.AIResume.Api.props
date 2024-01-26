@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AIResume.Api.props" />
+</Project>

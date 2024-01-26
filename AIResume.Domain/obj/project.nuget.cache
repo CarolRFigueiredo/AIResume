@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsTj3bFpw92dN0sV1HPc1dvJDaeFKTv0l532w+ygH66mga4jTe7oBEv3BEB0OCYfg1P9BZuubaoKpK7NppHK5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dti Digital\\source\\repos\\AIResume\\AIResume.Domain\\AIResume.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dti Digital\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\dti Digital\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\dti Digital\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

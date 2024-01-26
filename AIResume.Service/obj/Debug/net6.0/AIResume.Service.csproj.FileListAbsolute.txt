@@ -1,0 +1,15 @@
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\bin\Debug\net6.0\AIResume.Service.deps.json
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\bin\Debug\net6.0\AIResume.Service.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\bin\Debug\net6.0\AIResume.Service.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\bin\Debug\net6.0\AIResume.Domain.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\bin\Debug\net6.0\AIResume.Domain.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.csproj.AssemblyReference.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.csproj.CopyComplete
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\refint\AIResume.Service.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\AIResume.Service.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Service\obj\Debug\net6.0\ref\AIResume.Service.dll

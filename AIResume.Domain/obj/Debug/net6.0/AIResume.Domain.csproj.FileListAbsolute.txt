@@ -1,0 +1,12 @@
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\bin\Debug\net6.0\AIResume.Domain.deps.json
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\bin\Debug\net6.0\AIResume.Domain.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\bin\Debug\net6.0\AIResume.Domain.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.csproj.AssemblyReference.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\refint\AIResume.Domain.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\AIResume.Domain.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Domain\obj\Debug\net6.0\ref\AIResume.Domain.dll

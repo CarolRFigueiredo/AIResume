@@ -1,0 +1,15 @@
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\bin\Debug\net6.0\AIResume.Infra.Data.deps.json
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\bin\Debug\net6.0\AIResume.Infra.Data.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\bin\Debug\net6.0\AIResume.Infra.Data.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\bin\Debug\net6.0\AIResume.Domain.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\bin\Debug\net6.0\AIResume.Domain.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.csproj.CopyComplete
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\refint\AIResume.Infra.Data.dll
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\AIResume.Infra.Data.pdb
+C:\Users\dti Digital\source\repos\AIResume\AIResume.Infra.Data\obj\Debug\net6.0\ref\AIResume.Infra.Data.dll
